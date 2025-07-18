@@ -10,6 +10,7 @@ Projeto desenvolvido durante o evento **NLW (Next Level Week)** da Rocketseat, f
 - **PostgreSQL** - Banco de dados relacional
 - **Zod** - Validação de schemas
 - **TypeScript** - Linguagem de programação tipada
+- **Gemini API** - API de IA Generativa do Google
 
 ### Ferramentas de Desenvolvimento
 - **Biome** - Linter e formatter
